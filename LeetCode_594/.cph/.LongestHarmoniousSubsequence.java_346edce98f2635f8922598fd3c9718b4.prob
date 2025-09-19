@@ -1,0 +1,1 @@
+{"name":"Local: LongestHarmoniousSubsequence","url":"e:\\LeetCode\\LeetCode_594\\LongestHarmoniousSubsequence.java","tests":[{"id":1751274506002,"input":"8\n1 3 2 2 5 2 3 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\LeetCode\\LeetCode_594\\LongestHarmoniousSubsequence.java","group":"local","local":true}
