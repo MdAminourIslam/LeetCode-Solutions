@@ -8,7 +8,7 @@ Welcome to my LeetCode solutions repository! This project serves as a personal l
 
 This repository is organized by problem number for easy navigation.
 
-* Each problem has its own directory, named in the format `LeetCode_[ProblemNumber]` (e.g., `LeetCode_878`, `LeetCode_904`).
+* Each problem has its own directory, named in the format `LeetCode_[ProblemNumber]` (e.g., `LeetCode_878`, `LeetCode_904`) or `[ProblemNumber`] (e.g., `2515`, `1010`).
 * Inside each directory, you will find the source code file(s) containing my solution for that specific problem.
 
 ## 💻 Languages Used
