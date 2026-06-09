@@ -1,6 +1,6 @@
 # 🚀 My LeetCode Solutions
 
-Welcome to my LeetCode solutions repository! This project serves as a personal log of my journey through data structures and algorithms. It contains my solutions to various problems from [LeetCode](https://leetcode.com/), all written by me.
+Welcome to my LeetCode solutions repository! This project serves as a personal log of my journey through data structures and algorithms. It contains my solutions to various problems from [LeetCode](https://leetcode.com/u/Aminour_Islam/), all written by me.
 
 ---
 
